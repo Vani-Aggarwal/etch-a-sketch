@@ -7,5 +7,13 @@
 }
 .grid{
     border: 1px solid black;
+    border-radius: 13px;
+    width: 250px;
+    height: 250px;
     margin: 20px 0;
+}
+.box{
+    border: 1px solid black;
+    width: 2px;
+    height: 2px;
 }

@@ -6,10 +6,20 @@ body{
   justify-content: center;
   align-items: center;
 }
+h1,
+p{
+  font-family: "Bangers", system-ui;
+  font-weight: 400;
+  font-size: 78px;
+}
+p{
+  font-size: 36px;
+}
 #container{
-  border: 1px solid black;
-  width: 256px;
-  height: 256px;
+  border: 2px solid black;
+  border-radius: 7px;
+  width: 600px;
+  height: 600px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;

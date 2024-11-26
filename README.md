@@ -22,6 +22,21 @@ something between a sketchpad and etch-a-sketch
    //the input will return a number between 4 and 100
 
 -GRID 
+   //create a grid of a number user has entered
+
+   //   userInput * userInput = totalNumber
+
+   //  L/W of the box will dynamically change
+
+   //   totalNumber / 265 = L & W of the boxes
+
+-STYLE THE shit out of it
+   // randomize colour of boxes
+
+    thicker the border of container 
+   // increase the size
+    give it a title
+    display the size beneath the container
    
 
 

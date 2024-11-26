@@ -21,6 +21,7 @@ something between a sketchpad and etch-a-sketch
 
    //the input will return a number between 4 and 100
 
+-GRID 
    
 
 

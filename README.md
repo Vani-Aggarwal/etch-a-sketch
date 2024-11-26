@@ -14,6 +14,17 @@ something between a sketchpad and etch-a-sketch
 
    //use hover effect to change the color of the boxes as cursor hovers over it
 
+-BUTTON
+   //create a button
+
+   //button will initiate a prompt
+
+   //the input will return a number between 4 and 100
+
+   
+
+
+
 
 
 

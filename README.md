@@ -10,9 +10,11 @@ something between a sketchpad and etch-a-sketch
    // in the middle of the page
 
 -BOXES WITHIN THE CONTAINER
-    create 16*16 divs in it with js
+   // create 16*16 divs in it with js
 
-    use hover effect to change the color of the boxes as cursor hovers over it
+   //use hover effect to change the color of the boxes as cursor hovers over it
+
+
 
 
 

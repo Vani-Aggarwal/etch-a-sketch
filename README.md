@@ -33,14 +33,19 @@ something between a sketchpad and etch-a-sketch
 -STYLE THE shit out of it
    // randomize colour of boxes
 
-    thicker the border of container 
+   // thicker the border of container 
+
    // increase the size
-    give it a title
-    display the size beneath the container
    
+   // give it a title
 
+   // display the size beneath the container
 
-
+-PROMPT
+   prompt should appear only as button is clicked
+   default grid size is 16*16
+   new value should be used as grid size
+   
 
 
 

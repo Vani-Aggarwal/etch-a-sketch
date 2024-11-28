@@ -42,8 +42,10 @@ something between a sketchpad and etch-a-sketch
    // display the size beneath the container
 
 -PROMPT
-   prompt should appear only as button is clicked
-   default grid size is 16*16
+   //prompt should appear only as button is clicked
+
+   //default grid size is 16*16
+   
    new value should be used as grid size
    
 

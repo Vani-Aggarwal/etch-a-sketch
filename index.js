@@ -30,16 +30,18 @@ if(!userInput){
 console.log(userInput);
 
 
-let totalNumber = 0;
-
-let boxWidth = 0;
 
 function boxInTheContainer(){
-    totalNumber = userInput * userInput;
-    boxWidth =  (600 / userInput + "px");
+
+    let totalNumber = userInput * userInput;
+
+    let  boxWidth =  (600 / userInput + "px");
+
+    container.innerHTML = '';
+   
     for(let i = 0 ; i < totalNumber ; i++){
         const box = document.createElement("canvas");
-        box.classList.add("small-box");100
+        box.classList.add("small-box");
         container.appendChild(box);
         box.style.width = boxWidth;
         box.style.height = boxWidth;
@@ -76,3 +78,5 @@ function allTogether(){
 }
 
 inputButton.addEventListener('click' , allTogether);
+
+

@@ -1,6 +1,7 @@
 # etch-a-sketch
 
 something between a sketchpad and etch-a-sketch
+Below is sort of pseudocode. 
 
 -BOILERPLATE
    // create html,css,js docs
@@ -46,7 +47,7 @@ something between a sketchpad and etch-a-sketch
 
    //default grid size is 16*16
    
-   new value should be used as grid size
+  // new value should be used as grid size
    
 
 

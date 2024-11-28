@@ -27,7 +27,7 @@ function displayPrompt  ()  {
 if(!userInput){
     userInput = 16
 }
-console.log(userInput);
+
 
 
 
@@ -37,7 +37,7 @@ function boxInTheContainer(){
 
     let  boxWidth =  (600 / userInput + "px");
 
-    container.innerHTML = '';
+    container.replaceChildren()
    
     for(let i = 0 ; i < totalNumber ; i++){
         const box = document.createElement("canvas");
@@ -50,7 +50,6 @@ function boxInTheContainer(){
             box.style.background = generateNewColor();
         })
     }
-    console.log(boxWidth);
 }
 boxInTheContainer()
 

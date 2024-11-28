@@ -1,6 +1,8 @@
 # etch-a-sketch
 
 something between a sketchpad and etch-a-sketch
+Below is sort of pseudocode. 
+
 
 -BOILERPLATE
    // create html,css,js docs
